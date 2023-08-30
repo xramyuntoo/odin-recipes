@@ -1,0 +1,75 @@
+h1 {
+    text-align: center;
+    color: orangered;
+}
+
+#fork {
+    margin-left: 5px;
+    height: 30px;
+    width: 30px;
+}
+
+a {
+    font-size: 25px;
+    color: #FF3CEA;
+    text-align: center;
+}
+
+body {
+    text-align: left;
+}
+
+img {
+    max-height: 20%;
+    max-width: 25%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#index-ul {
+    text-align: center;
+}
+
+h4 {
+    text-decoration: underline;
+}
+
+/* * {
+    border: solid 1px red;
+} */
+
+.circle {
+   height: 10px;
+   width: 10px;
+   border-radius: 50%; 
+   display: inline-block;
+   margin: 3px;
+   border-color: white;
+}
+
+#blue-circle {
+    background-color: cyan;
+}
+
+#red-circle {
+    background-color: orangered;
+}
+
+#yellow-circle {
+    background-color: yellow;
+}
+
+#banner {
+    margin:0px;
+    padding: 5px;
+    text-align: center;
+    background-color: #3D44DF;
+    color: white;
+}
+
+#banner-yellow-text {
+    color: yellow;
+    font-weight: bold;
+}
+
+
